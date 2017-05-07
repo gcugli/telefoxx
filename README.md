@@ -1,4 +1,4 @@
-# gcugli
+# TeleFoxx
 
 ArangoDB Foxx Module to manage Telegram Bots
 
